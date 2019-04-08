@@ -1,0 +1,15 @@
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\bin\Debug\Turing.exe
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\bin\Debug\Turing.pdb
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\obj\Debug\Turing.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\obj\Debug\Turing.exe
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\obj\Debug\Turing.pdb
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\obj\Debug\Turing.MainForm.resources
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Monika\Turing\Turing\obj\Debug\Turing.csproj.GenerateResource.Cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\bin\Debug\Turing.exe
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\bin\Debug\Turing.pdb
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\obj\Debug\Turing.csprojAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\obj\Debug\Turing.MainForm.resources
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\obj\Debug\Turing.csproj.GenerateResource.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\obj\Debug\Turing.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\obj\Debug\Turing.exe
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Monika\Turing\Turing\obj\Debug\Turing.pdb
